@@ -15,9 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
