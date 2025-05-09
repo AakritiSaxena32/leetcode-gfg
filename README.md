@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
