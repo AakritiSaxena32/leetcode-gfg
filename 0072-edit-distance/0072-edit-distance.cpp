@@ -9,7 +9,7 @@ public:
         {
             dp[i][0] = i;
         }
-        for(int j=0; j<=m; j++)
+        for(int j=1; j<=m; j++)
         {
             dp[0][j] = j;
         }
