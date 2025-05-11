@@ -23,18 +23,35 @@ public:
         // return dp[0][1][2];
 
         //*********************************METHOD2*************************************************
+        // int n = prices.size();
+        // vector<vector<int>> dp(n+1, vector<int>(5, 0));
+        // for(int i = n-1; i>=0; i--)
+        // {
+        //     for(int j = 3; j>=0; j--)
+        //     {
+        //         if(j%2==0)
+        //             dp[i][j] = max(-prices[i]+dp[i+1][j+1], dp[i+1][j]);
+        //         else
+        //             dp[i][j] = max(prices[i]+dp[i+1][j+1], dp[i+1][j]);
+        //     }
+        // }
+        // return dp[0][0];
+
+        //SPACE OBTIMIZATION    
         int n = prices.size();
-        vector<vector<int>> dp(n+1, vector<int>(5, 0));
+        vector<int>after(5, 0);
+        vector<int>curr(5,0);
         for(int i = n-1; i>=0; i--)
         {
             for(int j = 3; j>=0; j--)
             {
                 if(j%2==0)
-                    dp[i][j] = max(-prices[i]+dp[i+1][j+1], dp[i+1][j]);
+                    curr[j] = max(-prices[i]+after[j+1], after[j]);
                 else
-                    dp[i][j] = max(prices[i]+dp[i+1][j+1], dp[i+1][j]);
+                    curr[j] = max(prices[i]+after[j+1], after[j]);
             }
+            after = curr;
         }
-        return dp[0][0];
+        return after[0];
     }
 };
