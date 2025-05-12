@@ -36,20 +36,43 @@ public:
 
 
         //*************************************METHOD 2****************************************
+        // int n = nums.size();
+        // vector<int> dp(n+1, 1);
+        // int maxi = 1;
+        // for(int ind=0; ind<n; ind++)
+        // {
+        //     for(int prev=0; prev<ind; prev++)
+        //     {
+        //         if(nums[ind]>nums[prev])
+        //         {
+        //             dp[ind] = max(dp[ind], 1+dp[prev]);
+        //         }
+        //     }
+        //     maxi = max(maxi, dp[ind]);
+        // }
+        // return maxi;
+
+
+        //************************************METHOD3***************************************
+        //BINARY SEARCH
         int n = nums.size();
-        vector<int> dp(n+1, 1);
-        int maxi = 1;
-        for(int ind=0; ind<n; ind++)
+        vector<int>temp;
+        temp.push_back(nums[0]);
+        int len = 1;
+        for(int i=1; i<=n-1; i++)
         {
-            for(int prev=0; prev<ind; prev++)
+            if(nums[i]>temp.back())
             {
-                if(nums[ind]>nums[prev])
-                {
-                    dp[ind] = max(dp[ind], 1+dp[prev]);
-                }
+                temp.push_back(nums[i]);
+                len++;
             }
-            maxi = max(maxi, dp[ind]);
+            else
+            {
+                int ind = lower_bound(temp.begin(), temp.end(), nums[i])-temp.begin();
+                temp[ind] = nums[i];
+            }
+                
         }
-        return maxi;
+        return len;
     }
 };
