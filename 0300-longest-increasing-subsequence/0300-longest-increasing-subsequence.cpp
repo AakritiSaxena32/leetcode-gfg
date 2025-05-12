@@ -18,20 +18,38 @@ public:
 
 
         //SPACE OBTIMIZATION
+        // int n = nums.size();
+        // vector<int> next(n+1, 0), cur(n+1, 0);
+        // int len=0;
+        // for(int ind=n-1; ind>=0; ind--)
+        // {
+        //     for(int prev=ind-1; prev>=-1; prev--)
+        //     {
+        //         len = 0 + next[prev+1];
+        //         if(prev==-1 || nums[ind]>nums[prev])
+        //             len = max(len, 1+ next[ind+1]);
+        //         cur[prev+1] = len;
+        //     }
+        //     next = cur;
+        // }
+        // return next[0];
+
+
+        //*************************************METHOD 2****************************************
         int n = nums.size();
-        vector<int> next(n+1, 0), cur(n+1, 0);
-        int len=0;
-        for(int ind=n-1; ind>=0; ind--)
+        vector<int> dp(n+1, 1);
+        int maxi = 1;
+        for(int ind=0; ind<n; ind++)
         {
-            for(int prev=ind-1; prev>=-1; prev--)
+            for(int prev=0; prev<ind; prev++)
             {
-                len = 0 + next[prev+1];
-                if(prev==-1 || nums[ind]>nums[prev])
-                    len = max(len, 1+ next[ind+1]);
-                cur[prev+1] = len;
+                if(nums[ind]>nums[prev])
+                {
+                    dp[ind] = max(dp[ind], 1+dp[prev]);
+                }
             }
-            next = cur;
+            maxi = max(maxi, dp[ind]);
         }
-        return next[0];
+        return maxi;
     }
 };
