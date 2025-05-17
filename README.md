@@ -89,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0115-distinct-subsequences) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0673-number-of-longest-increasing-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
