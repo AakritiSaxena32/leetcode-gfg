@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
