@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0747-min-cost-climbing-stairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Recursion
 |  |
