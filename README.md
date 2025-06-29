@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0072-edit-distance) |
