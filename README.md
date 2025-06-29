@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0686-repeated-string-match) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0686-repeated-string-match) |
 ## Depth-First Search
 |  |
