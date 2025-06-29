@@ -1,21 +1,24 @@
 class Solution {
 public:
-     int repeatedStringMatch(string A, string B) {
-        string s="";
+    int repeatedStringMatch(string a, string b) {
+        int n = b.size();
+        string s= "";
         int count = 0;
-        while(s.size()<B.size())
+        while(s.size()<n)
         {
-            s+=A;
+            s+=a;
             count++;
         }
-        if(s.find(B)!=string::npos)
+        if(s.find(b) != string::npos)
+        {
             return count;
-        s+=A;
+        }
+        s+=a;
         count++;
-        if(s.find(B)!=string::npos)
+        if(s.find(b) != string::npos)
+        {
             return count;
-        
+        }
         return -1;
-        
     }
 };
