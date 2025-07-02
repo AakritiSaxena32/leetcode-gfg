@@ -88,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
 | ------- |
