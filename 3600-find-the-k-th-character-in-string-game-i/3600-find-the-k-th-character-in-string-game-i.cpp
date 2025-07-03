@@ -6,7 +6,7 @@ public:
         while(word.length()<k)
         {
             int n = word.length();
-            for(int j=0; j<n && word.length()<k; j++)
+            for(int j=0; j<n; j++)
             {
                 char ch = word[j] + 1;
                 if(ch<='z')
