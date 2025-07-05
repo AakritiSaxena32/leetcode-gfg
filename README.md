@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2756-buy-two-chocolates](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2756-buy-two-chocolates) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
