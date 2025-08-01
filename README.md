@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0518-coin-change-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
