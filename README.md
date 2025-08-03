@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0583-delete-operation-for-two-strings) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
