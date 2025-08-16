@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
