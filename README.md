@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
 |  |
