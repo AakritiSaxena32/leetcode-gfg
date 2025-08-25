@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
+| [1138-grumpy-bookstore-owner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1138-grumpy-bookstore-owner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
