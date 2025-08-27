@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0583-delete-operation-for-two-strings) |
