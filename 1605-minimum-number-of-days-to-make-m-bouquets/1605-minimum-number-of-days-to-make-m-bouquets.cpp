@@ -1,36 +1,42 @@
 class Solution {
-public:
-    int getNumOfBouquets(vector<int>& bloomDay, int mid, int k) {
-        int numOfBouquets = 0;
-        int consecutive_count = 0;
-        
-        for (int i = 0; i < bloomDay.size(); i++) {
-            if (bloomDay[i] <= mid) {
-                consecutive_count++;
-            } else {
-                consecutive_count = 0;
+    int canMakeBouquet(vector<int>&bloomDay, int mid, int k)
+    {
+        int n = bloomDay.size();
+        int bouquet = 0, count = 0;
+        for(int i = 0; i<n; i++)
+        {
+            if(bloomDay[i] <= mid) 
+            {
+                count++;
             }
-            if (consecutive_count == k) {
-                numOfBouquets++;
-                consecutive_count = 0;
+            else
+            {
+                count = 0;
+            }
+            if(count == k)
+            {
+                bouquet++;
+                count = 0;
             }
         }
-        return numOfBouquets;
+        return bouquet;
     }
-
+public:
     int minDays(vector<int>& bloomDay, int m, int k) {
+        int n = bloomDay.size();
         int start_day = 0;
-        int end_day   = *max_element(begin(bloomDay), end(bloomDay));
-
+        int end_day = *max_element(begin(bloomDay), end(bloomDay));
         int minDays = -1;
-
-        while (start_day <= end_day) {
+        while(start_day <= end_day)
+        {
             int mid = start_day + (end_day - start_day)/2;
-
-            if (getNumOfBouquets(bloomDay, mid, k) >= m) {
+            if(canMakeBouquet(bloomDay, mid, k) >= m)
+            {
                 minDays = mid;
                 end_day = mid - 1;
-            } else {
+            }
+            else
+            {
                 start_day = mid + 1;
             }
         }
