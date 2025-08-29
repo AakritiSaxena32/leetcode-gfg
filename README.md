@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
+| [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
+| [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
+| [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1170-shortest-common-supersequence) |
