@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2479-meeting-rooms-iii) |
 ## Enumeration
@@ -398,10 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -414,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
