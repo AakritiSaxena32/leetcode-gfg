@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0583-delete-operation-for-two-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0686-repeated-string-match) |
 | [0782-jewels-and-stones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0812-rotate-string) |
