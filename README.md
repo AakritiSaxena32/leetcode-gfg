@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0205-isomorphic-strings) |
