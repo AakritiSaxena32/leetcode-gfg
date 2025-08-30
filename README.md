@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0064-minimum-path-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0125-valid-palindrome) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
