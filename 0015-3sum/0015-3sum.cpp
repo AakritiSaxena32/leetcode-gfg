@@ -5,7 +5,7 @@ public:
         int n = nums.size();
         sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
-        for(int i=0; i<n; i++)
+        for(int i=0; i<n-1; i++)
         {
             if(i>0 && nums[i]==nums[i-1]) continue;
             int j=i+1;
