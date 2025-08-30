@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0213-house-robber-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0344-reverse-string) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
