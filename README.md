@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
