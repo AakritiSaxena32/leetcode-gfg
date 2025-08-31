@@ -3,11 +3,7 @@ public:
     long long maxKelements(vector<int>& nums, int k) {
         int n = nums.size();
         long long score = 0;
-        priority_queue<int>pq;
-        for(int i = 0; i<n; i++)
-        {
-            pq.push(nums[i]);
-        }
+        priority_queue<int>pq(nums.begin(), nums.end());
         while(k > 0)
         {
             int num = pq.top();
