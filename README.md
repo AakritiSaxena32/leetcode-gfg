@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2887-sort-vowels-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2479-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2479-meeting-rooms-iii) |
 | [2756-buy-two-chocolates](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2756-buy-two-chocolates) |
+| [2887-sort-vowels-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Indexed Tree
 |  |
