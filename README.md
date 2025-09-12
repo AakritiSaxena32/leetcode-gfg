@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
