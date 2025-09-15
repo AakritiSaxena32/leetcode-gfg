@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
