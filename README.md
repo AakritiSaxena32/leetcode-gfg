@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0202-happy-number) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0260-single-number-iii) |
