@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2756-buy-two-chocolates) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2479-meeting-rooms-iii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
 | ------- |
