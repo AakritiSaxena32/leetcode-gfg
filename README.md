@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
