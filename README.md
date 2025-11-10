@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2479-meeting-rooms-iii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2756-buy-two-chocolates) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -393,11 +396,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0084-largest-rectangle-in-histogram) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
