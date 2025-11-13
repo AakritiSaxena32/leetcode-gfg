@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2887-sort-vowels-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2756-buy-two-chocolates) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Design
 |  |
 | ------- |
