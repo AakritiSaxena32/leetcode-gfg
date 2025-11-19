@@ -5,13 +5,11 @@ public:
         int n = nums.size();
         sort(nums.begin(), nums.end());
         int i = 0;
-        int num = original;
         while(i < n)
         {
-            if(nums[i] == num)
+            if(nums[i] == original)
             {
-                num = num * 2;
-                original = num;
+                original = original * 2;
             }
             i++;
         }
