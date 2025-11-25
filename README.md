@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1636-number-of-substrings-with-only-1s) |
