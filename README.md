@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3623-count-number-of-trapezoids-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3623-count-number-of-trapezoids-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2479-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2479-meeting-rooms-iii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3623-count-number-of-trapezoids-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2288-count-operations-to-obtain-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3623-count-number-of-trapezoids-i) |
 ## Memoization
 |  |
 | ------- |
@@ -536,4 +539,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
