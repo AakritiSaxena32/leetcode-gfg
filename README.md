@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0322-coin-change) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2092-find-all-people-with-secret](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2092-find-all-people-with-secret) |
 ## Greedy
 |  |
 | ------- |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2092-find-all-people-with-secret) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2479-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2479-meeting-rooms-iii) |
@@ -406,16 +408,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2092-find-all-people-with-secret](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2092-find-all-people-with-secret](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2092-find-all-people-with-secret](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2092-find-all-people-with-secret) |
 ## Stack
 |  |
 | ------- |
