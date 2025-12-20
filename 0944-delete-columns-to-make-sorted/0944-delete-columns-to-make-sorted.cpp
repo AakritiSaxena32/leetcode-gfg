@@ -14,6 +14,7 @@ public:
                 if(strs[i][j] > strs[i+1][j])
                 {
                     found = true;
+                    break;
                 }
                 i++;
             }
