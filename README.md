@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1170-shortest-common-supersequence) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
