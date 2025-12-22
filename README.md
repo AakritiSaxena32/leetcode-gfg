@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
