@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1170-shortest-common-supersequence) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1170-shortest-common-supersequence) |
