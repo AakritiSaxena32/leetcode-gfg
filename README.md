@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2485-find-the-pivot-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2485-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2625-increment-submatrices-by-one) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2288-count-operations-to-obtain-zero) |
+| [2485-find-the-pivot-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2485-find-the-pivot-integer) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3623-count-number-of-trapezoids-i) |
