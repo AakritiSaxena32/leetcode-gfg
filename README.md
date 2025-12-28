@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1138-grumpy-bookstore-owner) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
 | [2625-increment-submatrices-by-one](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2625-increment-submatrices-by-one) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2054-two-best-non-overlapping-events) |
