@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0686-repeated-string-match) |
+| [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
+| [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
