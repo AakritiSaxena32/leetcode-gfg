@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
