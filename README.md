@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0967-minimum-falling-path-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0840-magic-squares-in-grid) |
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1015-smallest-integer-divisible-by-k) |
