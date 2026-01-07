@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2092-find-all-people-with-secret) |
@@ -612,4 +613,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3623-count-number-of-trapezoids-i) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
