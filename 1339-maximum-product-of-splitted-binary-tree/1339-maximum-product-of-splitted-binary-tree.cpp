@@ -10,18 +10,24 @@
  * };
  */
 class Solution {
+    long maxP;
+    long SUM;
 public:
-    long long ans = 0, totalSum = 0;
-    int maxProduct(TreeNode* root) {
-        totalSum = dfs(root); // Firstly, get total sum of all nodes in the Binary Tree
-        dfs(root); // Then dfs in post order to calculate sum of each subtree and its complement
-        return ans % int(1e9+7);
+    long long totalSum(TreeNode* root)
+    {
+        if(root == NULL) return 0;
+        int leftSubtreeSum = totalSum(root->left);
+        int rightSubtreeSum = totalSum(root->right);
+        long subtreeSum = root->val + leftSubtreeSum + rightSubtreeSum;
+        long remainingSubtree = SUM - subtreeSum;
+        maxP = max(maxP, subtreeSum*remainingSubtree);
+        return subtreeSum;
     }
-    
-    int dfs(TreeNode* root) {
-        if (root == nullptr) return 0;
-        int currSum = dfs(root->left) + dfs(root->right) + root->val;
-        ans = max(ans, (totalSum - currSum) * currSum);
-        return currSum;
+    int maxProduct(TreeNode* root) {
+        if(root == NULL) return 0;
+        maxP = 0;
+        SUM = totalSum(root);
+        totalSum(root);
+        return maxP%(1000000007);
     }
 };
