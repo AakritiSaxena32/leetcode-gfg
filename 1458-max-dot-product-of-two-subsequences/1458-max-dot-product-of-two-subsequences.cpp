@@ -21,7 +21,7 @@
 
 
 class Solution {
-    int t[501][501];
+    vector<vector<int>> t;
     int m, n;
     int solve(vector<int>& nums1, vector<int>& nums2, int i , int j)
     {
@@ -37,13 +37,7 @@ public:
         int maxDotProduct(vector<int>& nums1, vector<int>& nums2) {
         n = nums1.size();
         m = nums2.size();
-        for(int i = 0; i < 501; i++)
-        {
-            for(int j = 0; j < 501; j++)
-            {
-                t[i][j] = -1e9;
-            }
-        }
+        t.resize(n, vector<int>(m, -1e9));
         int result = solve(nums1, nums2, 0, 0);
         return result;
     }
