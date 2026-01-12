@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1138-grumpy-bookstore-owner) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3623-count-number-of-trapezoids-i) |
 ## Tree
