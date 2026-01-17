@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2485-find-the-pivot-integer) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2288-count-operations-to-obtain-zero) |
 | [2402-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2402-meeting-rooms-iii) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
