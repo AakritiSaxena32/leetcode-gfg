@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0782-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0784-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
+| [0784-letter-case-permutation](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0784-letter-case-permutation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
