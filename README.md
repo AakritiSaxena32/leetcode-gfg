@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3453-separate-squares-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
