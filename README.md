@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0756-pyramid-transition-matrix) |
