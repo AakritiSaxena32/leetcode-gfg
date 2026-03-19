@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
 |  |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0480-sliding-window-median) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-two-best-non-overlapping-events](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2054-two-best-non-overlapping-events) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -677,8 +680,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
