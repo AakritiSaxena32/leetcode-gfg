@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1138-grumpy-bookstore-owner) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1266-minimum-time-visiting-all-points) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0480-sliding-window-median) |
+| [1046-last-stone-weight](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-two-best-non-overlapping-events](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2402-meeting-rooms-iii) |
