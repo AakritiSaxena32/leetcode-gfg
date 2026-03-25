@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0658-find-k-closest-elements) |
 | [0875-longest-mountain-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1028-interval-list-intersections) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
@@ -629,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-last-stone-weight) |
