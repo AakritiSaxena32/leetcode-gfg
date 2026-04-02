@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3453-separate-squares-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2054-two-best-non-overlapping-events) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2625-increment-submatrices-by-one](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2625-increment-submatrices-by-one) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Breadth-First Search
 |  |
 | ------- |
