@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1642-furthest-building-you-can-reach](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1642-furthest-building-you-can-reach) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1642-furthest-building-you-can-reach](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1642-furthest-building-you-can-reach) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1642-furthest-building-you-can-reach](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1642-furthest-building-you-can-reach) |
 | [2054-two-best-non-overlapping-events](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2054-two-best-non-overlapping-events) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2402-meeting-rooms-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2402-meeting-rooms-iii) |
