@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0932-monotonic-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0822-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0874-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0874-walking-robot-simulation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
