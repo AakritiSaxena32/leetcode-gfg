@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0657-robot-return-to-origin](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0657-robot-return-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
