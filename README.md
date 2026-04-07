@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0724-find-pivot-index) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0779-k-th-symbol-in-grammar) |
 | [0840-magic-squares-in-grid](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0840-magic-squares-in-grid) |
