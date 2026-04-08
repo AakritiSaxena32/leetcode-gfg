@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0594-longest-harmonious-subsequence) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0724-find-pivot-index) |
