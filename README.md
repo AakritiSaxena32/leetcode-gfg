@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1642-furthest-building-you-can-reach) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2485-find-the-pivot-integer) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2054-two-best-non-overlapping-events) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
