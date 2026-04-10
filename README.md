@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0219-contains-duplicate-ii) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0304-range-sum-query-2d-immutable) |
@@ -780,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0703-kth-largest-element-in-a-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
