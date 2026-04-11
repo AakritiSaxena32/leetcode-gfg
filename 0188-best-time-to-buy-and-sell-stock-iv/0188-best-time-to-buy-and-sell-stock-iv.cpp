@@ -19,15 +19,6 @@ public:
 
         int n = prices.size();
         if(n <= 1 || k == 0) return 0;
-        // if(k >= n/2)
-        // {
-        //     int maxProfit = 0;
-        //     for(int i = 1; i< n; i++)
-        //     {
-        //         if(prices[i] > prices[i-1]) maxProfit += max(maxProfit, prices[i]-prices[i-1]);
-        //     }
-        //     return maxProfit;
-        // }
         vector<int>buy(k,INT_MIN);
         vector<int>sell(k,0);
         for(int p : prices)
