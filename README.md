@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1559-cherry-pickup-ii) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1626-best-team-with-no-conflicts](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2751-robot-collisions](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2751-robot-collisions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0084-largest-rectangle-in-histogram) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
