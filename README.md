@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1046-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1138-grumpy-bookstore-owner) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1266-minimum-time-visiting-all-points) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1642-furthest-building-you-can-reach](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1642-furthest-building-you-can-reach) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
