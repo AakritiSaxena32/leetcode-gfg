@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2485-find-the-pivot-integer) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
