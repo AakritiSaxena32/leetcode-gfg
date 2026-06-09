@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2490-circular-sentence](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2490-circular-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3617-find-the-original-typed-string-i) |
