@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2756-buy-two-chocolates) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
