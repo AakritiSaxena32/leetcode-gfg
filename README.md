@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1732-find-the-highest-altitude](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1732-find-the-highest-altitude) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2485-find-the-pivot-integer) |
