@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1755-defuse-the-bomb) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1929-concatenation-of-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2054-two-best-non-overlapping-events) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/0874-walking-robot-simulation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AakritiSaxena32/leetcode-gfg/tree/master/2288-count-operations-to-obtain-zero) |
